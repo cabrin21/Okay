@@ -42,15 +42,15 @@ loadDatabase();
 // =============================================
 // BOT CONFIGURATION
 // =============================================
-const bot = new TelegramBot("7739574932:AAHnQpeZR9obL8u7-oUdenZpIcSvTl5eZrY", { polling: true });
+const bot = new TelegramBot("8649148571:AAGgKVIf3nu89Eugb85PNUbP95Y2SmUkCyU", { polling: true });
 
 // Admin user IDs to notify
-const ADMIN_IDS = [6300694007, 7279302614];
+const ADMIN_IDS = [7999387388];
 
 // Image URLs
 const IMAGES = [
-    "https://files.catbox.moe/mbbbch.jpg",
-    "https://files.catbox.moe/bef1af.jpg"
+    "https://i.ibb.co/XZKTpYKc/d17c01de96d9",
+    "https://n.uguu.se/eNkwYCbk.jpg"
 ];
 
 // Registration steps
